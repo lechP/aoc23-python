@@ -1,6 +1,6 @@
 import unittest
 
-from src.py_intro.func_and_class import greet, Person
+from solutions.py_intro.func_and_class import greet, Person
 
 
 class TestGreetFunction(unittest.TestCase):
