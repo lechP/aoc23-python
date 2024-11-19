@@ -42,7 +42,7 @@ class TestDay03Unit(unittest.TestCase):
         self.assertEqual(467835, sum_gear_ratios(lines))
 
 
-class TestDay02Solution(unittest.TestCase):
+class TestDay03Solution(unittest.TestCase):
     def test_solution_part1(self):
         input_test_1 = read_strings("test1.txt")
         self.assertEqual(4361, sum_of_part_numbers(input_test_1))
