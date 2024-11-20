@@ -1,8 +1,6 @@
 import unittest
 
 from solutions.common.readers import read_strings
-from solutions.day02.solution_day02 import game_within_limit, game_limits, sum_games_within_limit, power_of_the_game, \
-    sum_powers_of_games
 from solutions.day03.solution_day03 import row_sum, sum_of_part_numbers, indexed_numbers_in_line, sum_gear_ratios
 
 lines = ["467..114..",
